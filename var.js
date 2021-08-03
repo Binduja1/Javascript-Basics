@@ -8,4 +8,4 @@ console.log(Y); // 5
 
 //We can use var and let to declare the variables.
 let x;
-let y;
+let y1;
